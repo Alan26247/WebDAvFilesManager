@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>\\ALAN-SERVER\DemonstrationFilesManager</_PublishTargetUrl>
+    <History>True|2023-01-09T13:37:27.8152628Z;True|2023-01-09T16:32:23.3864417+03:00;True|2023-01-09T16:30:37.3214417+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ConnectionString">
+      <Value>Host=192.168.0.100%3bPort=5432%3bDatabase=DemonstrationFilesRepository%3bUsername=AlanService%3bPassword=kL853TmH5K5^&amp;^</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

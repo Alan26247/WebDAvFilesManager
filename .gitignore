@@ -1,0 +1,10 @@
+﻿.vs/
+
+WebDavFilesRepository/Client/bin/
+WebDavFilesRepository/Client/obj/
+
+WebDavFilesRepository/Server/bin/
+WebDavFilesRepository/Server/obj/
+
+WebDavFilesRepository/Shared/bin/
+WebDavFilesRepository/Shared/obj/
